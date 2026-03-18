@@ -64,8 +64,8 @@ class TopluyoAUTH{
 }
 
 
-TopluyoAUTH::$APP_ID = 698;
-TopluyoAUTH::$APP_KEY = "56c01969b72556696b27534a7063125b";
+TopluyoAUTH::$APP_ID = 11111111;
+TopluyoAUTH::$APP_KEY = "XXXXXX";
 TopluyoAUTH::$REDIRECT_URI = "https://app.kodluyo.com/login";
 
 
